@@ -1,0 +1,165 @@
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroAparelhos.resources
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroClientes.resources
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroFabricante.resources
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmLogin.resources
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmMenu.resources
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmPesquisaCliente.resources
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmPesquisaFabricante.resources
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmSplash.resources
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.Properties.Resources.resources
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\Cadastro Clientes.exe.config
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\Cadastro Clientes.exe
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\Cadastro Clientes.pdb
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\Npgsql.dll
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Json.dll
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Channels.dll
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\Npgsql.xml
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Json.xml
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Channels.xml
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\bin\Debug\System.ValueTuple.xml
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csproj.CopyComplete
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro Clientes.exe
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro Clientes.pdb
+C:\Users\User\source\repos\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroPedidos.resources
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\Cadastro Clientes.exe.config
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\Cadastro Clientes.exe
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\Cadastro Clientes.pdb
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\Npgsql.dll
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Buffers.dll
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Memory.dll
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Json.dll
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Channels.dll
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.ValueTuple.dll
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\Npgsql.xml
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Buffers.xml
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Memory.xml
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Json.xml
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Channels.xml
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\bin\Debug\System.ValueTuple.xml
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csprojAssemblyReference.cache
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroAparelhos.resources
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroClientes.resources
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroFabricante.resources
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroPedidos.resources
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmLogin.resources
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmMenu.resources
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmPesquisaCliente.resources
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmPesquisaFabricante.resources
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmSplash.resources
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.Properties.Resources.resources
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csproj.GenerateResource.cache
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csproj.CoreCompileInputs.cache
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csproj.CopyComplete
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro Clientes.exe
+C:\Users\italo\OneDrive\Área de Trabalho\teste\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro Clientes.pdb
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\Cadastro Clientes.exe.config
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\Cadastro Clientes.exe
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\Cadastro Clientes.pdb
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\Npgsql.dll
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Channels.dll
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\Npgsql.xml
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Channels.xml
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroAparelhos.resources
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroClientes.resources
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroFabricante.resources
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroPedidos.resources
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmLogin.resources
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmMenu.resources
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmPesquisaCliente.resources
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmPesquisaFabricante.resources
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmSplash.resources
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.Properties.Resources.resources
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro Clientes.exe
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro Clientes.pdb
+C:\Users\Usuario\Documents\escola\C#\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmPesquisaPedido.resources
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\Cadastro Clientes.exe.config
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\Cadastro Clientes.exe
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\Cadastro Clientes.pdb
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\Npgsql.dll
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Buffers.dll
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Memory.dll
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Json.dll
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Channels.dll
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.ValueTuple.dll
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\Npgsql.xml
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Buffers.xml
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Memory.xml
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Text.Json.xml
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Channels.xml
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\bin\Debug\System.ValueTuple.xml
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csprojAssemblyReference.cache
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroAparelhos.resources
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroClientes.resources
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroFabricante.resources
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmCadastroPedidos.resources
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmLogin.resources
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmMenu.resources
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmPesquisaCliente.resources
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmPesquisaFabricante.resources
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmPesquisaPedido.resources
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.frmSplash.resources
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro_Clientes.Properties.Resources.resources
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csproj.GenerateResource.cache
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csproj.CoreCompileInputs.cache
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\CelularCTI.csproj.CopyComplete
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro Clientes.exe
+C:\Users\italo\OneDrive\Área de Trabalho\Nova pasta\Loja telefone\Cadastro Clientes\obj\Debug\Cadastro Clientes.pdb
